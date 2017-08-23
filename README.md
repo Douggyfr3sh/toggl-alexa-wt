@@ -1,6 +1,6 @@
 # toggl-mongo-wt
 
-This application is a simple webtask I hacked together in about 3 hours.  The webtask stores data from the elegant time tracking and productivity application toggl (www.toggl.io) to an mLab Mongo database.  I used Zapier to create a new Zap which is triggered whenever a new time entry is stored in toggl.  The action for this Zap is a webhook which sends a simple GET request to my webtask endpoint with parameters passed from the toggl API.
+This application is a simple webtask I hacked together in a few hours.  The webtask stores data from the elegant time tracking and productivity application toggl (www.toggl.io) to an mLab Mongo database.  I used Zapier to create a new Zap which is triggered whenever a new time entry is stored in toggl.  The action for this Zap is a webhook which sends a simple GET request to my webtask endpoint with parameters passed from the toggl API.
 
 ## Stored Data
 
