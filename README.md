@@ -10,7 +10,7 @@ Currently, the webtask stores project name, task description, and task duration 
 
 When I originally came up with the idea for this tool, I thought it would be awesome to craft an Amazon Alexa app which can access the stored data from MongoDB to quickly read off the tasks which the user completed that day.  I think this would be a helpful way to quickly review daily productivity before bed, and to be mindful of how priorities should shift heading into the next work day.
 
-##Contributing
+## Contributing
 
 Feel free to fork this repo and do cool things with it!!
 
