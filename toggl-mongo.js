@@ -1,5 +1,3 @@
-//use latest; //ES6- Had problems with this.
-
 //Require statements for async code and mongodb interface
 /* Used guide at:
 
