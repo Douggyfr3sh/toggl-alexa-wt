@@ -47,13 +47,6 @@ module.exports = function (ctx, done) {
       done(null, 'Success.');
     });
 
-    // parallel(save_task, (err) => {
-    //   if (err) return done(err);
-
-    //   done(null, 'Success.');
-    // });
-
   });
 
-  //done(null, 'It\'s Working!');
 }
